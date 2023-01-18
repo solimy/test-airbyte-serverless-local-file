@@ -1,0 +1,9 @@
+{
+    "dataset_name": "MOCK_DATA",
+    "format": "csv",
+    "reader_options": "{\"sep\": \",\"}",
+    "url": "/local/MOCK_DATA.csv",
+    "provider": {
+        "storage": "local"
+    }
+}
